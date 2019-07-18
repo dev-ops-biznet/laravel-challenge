@@ -18,5 +18,3 @@ Current user : admin@admin.com , password : admin
 Create your own user with password : user
 
 After you are satisfied with it, zip and send via email to `career_it@biznetnetworks.com` (please exclude /vendor directory), and include "[Laravel Challenge]" on email subject.
-
-
